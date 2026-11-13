@@ -6,7 +6,7 @@
 
 - https://github.com/NotOnii/gamesense-menu/tree/main
 
-## features
+## Features
 
 - full 1:1 recreation of the gamesense menu 
 
@@ -14,11 +14,11 @@
 
 - Written in Lua/Luau
 
-## usage
+## Usage
 
 - Use an executor or Roblox Studio to see and interact / use the menu. The executor I used during development was Volt
 
-## warnings
+## Warnings
 
 - Report any bugs and they will be fixed or you can fix them on your own
 - Other executors besides Volt were untested and may not work properly as intended, use at your own risk
