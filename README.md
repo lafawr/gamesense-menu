@@ -2,9 +2,16 @@
 
 <img width="1832" height="1028" alt="image" src="https://github.com/user-attachments/assets/dea0cc78-8d8a-4df9-9c6f-2cbc534b0680" />
 
+## Original source used for creation
+
+- https://github.com/NotOnii/gamesense-menu/tree/main
+
 ## features
 
-- full 1:1 recreation of the gamesense menu (Original source: https://github.com/NotOnii/gamesense-menu/tree/main)
+- full 1:1 recreation of the gamesense menu 
+
+## Programming language
+
 - Written in Lua/Luau
 
 ## usage
