@@ -9,7 +9,7 @@
 
 ## Features
 
-- full 1:1 recreation of the gamesense menu 
+- A full 1:1 recreation of the gamesense menu 
 
 ## Programming language
 
